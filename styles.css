@@ -1,0 +1,56 @@
+
+h1{
+    color:rgb(0,52,120);
+    font-family:cursive;
+    
+}
+#border{
+    border:2px solid red;
+    border-radius: 10px;
+}
+h3{
+    color:rgb(255,0,0);
+
+}
+
+img{
+    border:2px solid red;
+    border-radius:8px;
+    width:200px;
+    
+}
+img:hover{
+    transform:scale(1.2);
+}
+.fordblue{
+    color:rgb(0,52,120);
+}
+.red{
+    color:rgb(255,0,0);
+}
+#underline{
+    text-decoration-line: underline;
+}
+ul li:hover {
+    background-color: rgba(2, 63, 81, 0.497);
+  }
+table{
+    border-collapse:collapse;
+    width:100%;
+}
+th{
+    color:#FF0000;
+}
+th, td{
+    padding:8px;
+    text-align:center;
+    border-bottom:1px solid black;
+}
+tr:hover{
+    color:red;
+}
+input[type=submit] {
+    background-color:white;
+    color:red;
+    border:2px solid red;
+}
